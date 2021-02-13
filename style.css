@@ -1,0 +1,59 @@
+#edit a{
+	padding: 8.5px 23px;
+	background-color: #737373;
+	display: inline-block;
+	color: white;
+	letter-spacing: 2px;
+  	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+}
+
+#edit a:hover{
+	color: #70db70;
+	background-color: linear-gradient (-40deg, red, blue);
+}
+
+#text th{
+	font-family: Arial, Helvetica, sans-serif;
+	color: white;
+	letter-spacing: 1px;
+}
+
+#hapus a{
+	text-decoration: none;
+	padding: 8.5px;
+	background-color: #737373;
+	display: inline-block;
+	color: white;
+	letter-spacing: 2px;
+  	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+}
+
+#aksi th{
+	margin: center;
+}
+
+
+#hapus a:hover{
+	color: #70db70;
+}
+
+#mahasiswa{
+	padding: 4.5px 15px;
+	background-color: #737373;
+	display: inline-block;
+	color: white;
+	letter-spacing: 2px;
+  	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+}
+
+#mahasiswa a:hover{
+	color: #70db70;
+}
+
+#background {
+	background-color: #bfbfbf;
+	background-image: linear-gradient(-90deg, #bfbfbf, #f2f2f2);
+}
